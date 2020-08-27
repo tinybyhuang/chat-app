@@ -1,0 +1,7 @@
+server:
+  port: 80
+  servlet:
+    context-path: /chat-app-server
+netty:
+  host: 127.0.0.1
+  port: 8080
